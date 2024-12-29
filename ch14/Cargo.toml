@@ -1,0 +1,8 @@
+[workspace]
+
+members = [ "add_one",
+    "adder",
+    "art",
+    "guessing_game",
+    "my_crate",
+]

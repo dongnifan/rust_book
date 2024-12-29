@@ -1,0 +1,6 @@
+[workspace]
+
+members = [ "aggregator",
+    "chapter10",
+    "generics",
+]

@@ -1,0 +1,7 @@
+[workspace]
+
+members = [ "closure-example",
+    "iterators",
+    "rectangles",
+    "shirt-company",
+]

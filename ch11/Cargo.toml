@@ -1,0 +1,6 @@
+[workspace]
+
+members = [ "adder",
+    "guessing_game",
+    "silly-function",
+]
