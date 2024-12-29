@@ -1,0 +1,2 @@
+[workspace]
+members = [ "functions-example", "hello_macro", "hello_macro_derive", "macros-example", "traits-example", "types-example","unsafe-example"]
